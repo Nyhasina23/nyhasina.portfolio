@@ -12,7 +12,7 @@ const Community = ({ poste, company, desc, image, date }) => {
             width={50}
             height={50}
           />
-          <p className="z-10 ml-2  text-md font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
+          <p className="z-10 ml-2  text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
             {date}
           </p>
         </header>

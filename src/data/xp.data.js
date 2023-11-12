@@ -1,7 +1,7 @@
 export const dataXP = [
   {
     poste: "Fullstack JavaScript developer ",
-    date: "Fev 2023 - Oct 2023",
+    date: "Feb 2023 - Oct 2023",
     company: "COMEUP • FREELANCE • REMOTE",
     description:
       "Freelance fullstack javascript developer and integrator on the platform comeup since February 2023 with 40 sales and 99% of satisfied customers.",
@@ -60,7 +60,7 @@ export const dataXP = [
   },
   {
     poste: "Fullstack Developer Intern",
-    date: "Fev 2022 - Août 2022 ",
+    date: "Feb 2022 - Aug 2022 ",
     company: "PETIT NID • INTERN • FULL TIME • ON THE SITE",
     description:
       "Full-time full-stack developer intern at Le Petit Nid school. Database design, functionality analyses, development and production.",
@@ -68,7 +68,7 @@ export const dataXP = [
   },
   {
     poste: "Développeur FRONTEND",
-    date: "Janvier 2022",
+    date: "January 2022",
     company: "MADITY • REMOTE",
     description:
       "In collaboration for the creation of the Madity company showcase site",
