@@ -7,9 +7,9 @@ export const dataXP = [
       "Freelance fullstack javascript developer and integrator on the platform comeup since Mai 2022 with 40 sales and 99% of satisfied customers.",
     tech: [
       "Javascript",
+      "Vue",
       "React",
       "Redux",
-      "Vue",
       "Node JS",
       "Express",
       "Linux",
@@ -18,14 +18,14 @@ export const dataXP = [
     ],
   },
   {
-    poste: "Fullstack Developer",
+    poste: "Fullstack Developer VUE & Node js",
     date: "Sep 2022 - Sep 2023",
     company: "TERATANY • CDD • HYBRID",
     description:
       "Fullstack developer at Teratany in collaboration with DeviantCoin. Database design, functionality analyses, development and production.",
     tech: [
-      "React TS",
-      "Redux",
+      "Vue JS",
+      "Vuex",
       "Node TS",
       "Express",
       "MongoDB",
@@ -64,7 +64,7 @@ export const dataXP = [
     company: "PETIT NID • INTERN • FULL TIME • ON THE SITE",
     description:
       "Full-time full-stack developer intern at Le Petit Nid school. Database design, functionality analyses, development and production.",
-    tech: ["React TS ", "Redux", "Node TS", "Express", "MongoDB", " Linux"],
+    tech: ["Vue JS ", "Vuex", "Node TS", "Express", "MongoDB", " Linux"],
   },
   {
     poste: "UI Developer/Front End Developer",
