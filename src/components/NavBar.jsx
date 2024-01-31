@@ -30,7 +30,7 @@ const NavBar = () => {
                     H •••••
                   </FancyText>
                 </a>
-                <div class="flex items-center -mr-2 md:hidden">
+                <div class="relative z-10 flex items-center -mr-2 md:hidden">
                   <button
                     class="inline-flex items-center justify-center p-2 text-gray-400 rounded-md hover:text-[#05828e] "
                     type="button"
@@ -57,7 +57,7 @@ const NavBar = () => {
                 </div>
               </div>
             </div>
-            <div class="hidden md:flex md:space-x-10 list-none">
+            <div class="hidden relative z-10 md:flex md:space-x-10 list-none">
               <li>
                 <a
                   href="#experience"
@@ -83,7 +83,7 @@ const NavBar = () => {
                 </a>
               </li>
             </div>
-            <div class="hidden md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
+            <div class="hidden relative z-10 md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
               <div class="inline-flex rounded-full shadow">
                 <a
                   href="https://drive.google.com/file/d/11t8Q_Dy1dLLObaNypttFmqB5vx5Qa7u7/view?usp=sharing"

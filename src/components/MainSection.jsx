@@ -60,7 +60,7 @@ const MainSection = () => {
               <h1 className="text-lg font-extralight text-[#e7eaef]">
                 • Front developer • Backend developer •
               </h1>
-              <div className="">
+              <div className="relative z-10">
                 <ul class="flex justify-start mt-5 space-x-5">
                   <li>
                     <a
