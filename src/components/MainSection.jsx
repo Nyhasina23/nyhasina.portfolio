@@ -26,7 +26,7 @@ const MainSection = () => {
     const offsetX = (mousePosition.x / window.innerWidth) * 100;
     const offsetY = (mousePosition.y / window.innerHeight) * 100;
 
-    const size = 40; // You can adjust this size based on your preference
+    const size = 40; 
 
     return `radial-gradient(circle at ${offsetX}% ${offsetY}%, #162229, #080b11 ${size}%)`;
   };

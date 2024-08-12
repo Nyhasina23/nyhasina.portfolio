@@ -41,11 +41,4 @@ export const projects = [
     image: fedde,
     link: "https://fedde.app",
   },
-  {
-    company: "Madity",
-    description:
-      "Madity is a consulting company that allows you to carry out your technological projects by reducing your production and operating costs. The Madity founding team is at the crossroads between Madagascar, Paris and Brussels, with more than 20 years of experience in the world of IT consulting and service outsourcing. With a strong local presence in Madagascar as well as an office in Europe, we are able to support you on your projects.",
-    image: madity,
-    link: "https://madity.eu",
-  },
 ];
