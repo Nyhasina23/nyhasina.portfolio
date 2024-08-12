@@ -86,7 +86,7 @@ const NavBar = () => {
             <div class="hidden relative z-10 md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
               <div class="inline-flex rounded-full shadow">
                 <a
-                  href="https://drive.google.com/file/d/1EI3nO1fh5fRkMDA4VQ8scY7VwOXrBFBN/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/16UVLDtAFuaW39-gymcmuQYA0w7ByRCcn/view?usp=drive_link"
                   class="inline-flex items-center px-4 py-2 text-base text-gray-900 bg-[#05828e] border border-transparent rounded-full cursor-pointer font-base hover:bg-gray-50 "
                 >
                   Contact Me — CV

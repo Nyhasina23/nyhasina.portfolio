@@ -56,7 +56,7 @@ export function DrawerNav({ isDrawerOpen = false }) {
           <Typography className="text-xl font-normal mt-4 text-gray-100 list-none hover:text-[#05828e]">
             <div class="inline-flex rounded-full shadow">
               <a
-                href="https://drive.google.com/file/d/1EI3nO1fh5fRkMDA4VQ8scY7VwOXrBFBN/view?usp=drive_link"
+                href="https://drive.google.com/file/d/16UVLDtAFuaW39-gymcmuQYA0w7ByRCcn/view?usp=drive_link"
                 class="inline-flex items-center px-4 py-2 text-base text-gray-900 bg-[#05828e] border border-transparent rounded-full cursor-pointer font-base hover:bg-gray-50 "
               >
                 Contact Me — CV
