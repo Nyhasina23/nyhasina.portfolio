@@ -3,8 +3,16 @@ import dev from "../assets/images/dev.png";
 import winepal from "../assets/images/winepal.jpg";
 import madity from "../assets/images/madity.jpg";
 import comeup from "../assets/images/comeup.webp";
+import sirhplus from "../assets/images/sirhplus.png";
 
 export const projects = [
+  {
+    company: "SIRHPLUS",
+    description:
+      " SIRHPLUS is a human resources management application in France.",
+    image: sirhplus,
+    link: "https://app.sirhplus.fr",
+  },
   {
     company: "ComeUp",
     description:

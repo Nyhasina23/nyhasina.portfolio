@@ -1,7 +1,21 @@
 export const dataXP = [
   {
+    poste: "Frontend Developer ",
+    date: "Jan 2024 - Jul 2024",
+    company: "SIRHPLUS • FULLTIME • ON THE SITE",
+    description:
+      "Frontend React Developer at Visions Additionnelles Madagascar (a subsidiary of Visions Additionnelles France). SIRHPLUS is a human resources management application in France.",
+    tech: [
+      "Typescript",
+      "React",
+      "Preact",
+      "Gitlab",
+      "ClickUp",
+    ],
+  },
+  {
     poste: "Fullstack Javascript Developer ",
-    date: "Mai 2022 - Oct 2023",
+    date: "May 2022 - Oct 2023",
     company: "COMEUP • FREELANCE • REMOTE",
     description:
       "Freelance fullstack javascript developer and integrator on the platform comeup since Mai 2022 with 40 sales and 99% of satisfied customers.",
@@ -65,13 +79,5 @@ export const dataXP = [
     description:
       "Full-time full-stack developer intern at Le Petit Nid school. Database design, functionality analyses, development and production.",
     tech: ["Vue JS ", "Vuex", "Node TS", "Express", "MongoDB", " Linux"],
-  },
-  {
-    poste: "UI Developer/Front End Developer",
-    date: "January 2022",
-    company: "MADITY • REMOTE",
-    description:
-      "In collaboration for the creation of the Madity company showcase site",
-    tech: ["Javascript", "React"],
   },
 ];
