@@ -1,7 +1,6 @@
 import fedde from "../assets/images/fedde.png";
 import dev from "../assets/images/dev.png";
 import winepal from "../assets/images/winepal.jpg";
-import madity from "../assets/images/madity.jpg";
 import comeup from "../assets/images/comeup.webp";
 import sirhplus from "../assets/images/sirhplus.png";
 
