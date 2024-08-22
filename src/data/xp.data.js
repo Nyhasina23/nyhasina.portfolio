@@ -49,24 +49,8 @@ export const dataXP = [
     ],
   },
   {
-    poste: "Fullstack Developer MERN",
-    date: "Mar 2023 - Jul 2023",
-    company: "WINEPAL • CDD • PART TIME • REMOTE",
-    description:
-      "Fullstack developer at Winepal using the GPT-4 API. Database design, functionality analyses, development and production.",
-    tech: [
-      "React TS",
-      "Redux",
-      "Node TS",
-      "Express",
-      "MongoDB",
-      "Linux",
-      "GPT-4",
-    ],
-  },
-  {
     poste: "REACT & REDUX Developer",
-    date: "Dec 2022 - Mar 2023 ",
+    date: "Mar 2023 - Dec 2022",
     company: "FEDDE • CDD • PART TIME • REMOTE",
     description:
       "React & Redux frontend developer at Fedde for the affiliate marketing and online product promotion platform.Database design, functionality analyses, development and production.",
@@ -75,9 +59,9 @@ export const dataXP = [
   {
     poste: "Fullstack Developer Intern",
     date: "Feb 2022 - Aug 2022 ",
-    company: "PETIT NID • INTERN • FULL TIME • ON THE SITE",
+    company: "LE PETIT NID MADAGASCAR • INTERN • FULL TIME • ON THE SITE",
     description:
       "Full-time full-stack developer intern at Le Petit Nid school. Database design, functionality analyses, development and production.",
-    tech: ["Vue JS ", "Vuex", "Node TS", "Express", "MongoDB", " Linux"],
+    tech: ["React JS ", "Redux", "Node TS", "Express", "MongoDB", " Linux"],
   },
 ];

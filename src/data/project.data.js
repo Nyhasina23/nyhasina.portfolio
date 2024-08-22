@@ -1,44 +1,67 @@
-import fedde from "../assets/images/fedde.png";
-import dev from "../assets/images/dev.png";
-import winepal from "../assets/images/winepal.jpg";
-import madity from "../assets/images/madity.jpg";
-import comeup from "../assets/images/comeup.webp";
-import sirhplus from "../assets/images/sirhplus.png";
-
-export const projects = [
+export const dataXP = [
   {
-    company: "SIRHPLUS",
+    poste: "Frontend Developer ",
+    date: "Jan 2024 - Jul 2024",
+    company: "SIRHPLUS • FULLTIME • ON THE SITE",
     description:
-      " SIRHPLUS is a human resources management application in France.",
-    image: sirhplus,
-    link: "https://app.sirhplus.fr",
+      "Frontend React Developer at Visions Additionnelles Madagascar (a subsidiary of Visions Additionnelles France). SIRHPLUS is a human resources management application in France.",
+    tech: [
+      "Typescript",
+      "React",
+      "Preact",
+      "Gitlab",
+      "ClickUp",
+    ],
   },
   {
-    company: "ComeUp",
+    poste: "Fullstack Javascript Developer ",
+    date: "May 2022 - Oct 2023",
+    company: "COMEUP • FREELANCE • REMOTE",
     description:
-      "Seller since May 2022 with 40 sales and 99% positive reviews. You can visit my profile",
-    image: comeup,
-    link: "https://comeup.com/fr/@ny-hasina",
+      "Freelance fullstack javascript developer and integrator on the platform comeup since Mai 2022 with 40 sales and 99% of satisfied customers.",
+    tech: [
+      "Javascript",
+      "Vue",
+      "React",
+      "Redux",
+      "Node JS",
+      "Express",
+      "Linux",
+      "MongoDB",
+      "MySQL",
+    ],
   },
   {
-    company: "Teratany",
+    poste: "Fullstack Developer VUE & Node js",
+    date: "Sep 2022 - Sep 2023",
+    company: "TERATANY • CDD • HYBRID",
     description:
-      "Teratany is an innovative social platform that focuses on promoting sustainable development and corporate social responsibility.",
-    image: dev,
-    link: "https://teratany.org",
+      "Fullstack developer at Teratany in collaboration with DeviantCoin. Database design, functionality analyses, development and production.",
+    tech: [
+      "Vue JS",
+      "Vuex",
+      "Node TS",
+      "Express",
+      "MongoDB",
+      "Linux",
+      "Jenkins",
+      "Kubernetes",
+    ],
   },
   {
-    company: "Winepal",
+    poste: "REACT & REDUX Developer",
+    date: "Mar 2023 - July 2022",
+    company: "FEDDE • CDD • PART TIME • REMOTE",
     description:
-      "Have you ever found yourself in the situation where you don't know which wine to choose to accompany your favorite dish? Or maybe you bought a bottle of wine that wasn't quite to your liking? Well, thanks to advances in artificial intelligence, it is now possible to find the perfect wine and food pairing in no time.",
-    image: winepal,
-    link: "https://winepal.fr",
+      "React & Redux frontend developer at Fedde for the affiliate marketing and online product promotion platform.Database design, functionality analyses, development and production.",
+    tech: ["React", "Redux"],
   },
   {
-    company: "Fedde",
+    poste: "Fullstack Developer Intern",
+    date: "Feb 2022 - Aug 2022 ",
+    company: "LE PETIT NID MADAGASCAR • INTERN • FULL TIME • ON THE SITE",
     description:
-      "Fedde is an affiliate marketing platform for selling and promoting products online. We understand that small businesses have limited budgets and resources for their marketing. That's why we created Fedde.app, to help businesses generate more sales and conversions without having to spend a fortune on advertising.",
-    image: fedde,
-    link: "https://fedde.app",
+      "Full-time full-stack developer intern at Le Petit Nid school. Database design, functionality analyses, development and production.",
+    tech: ["React JS ", "Redux", "Node TS", "Express", "MongoDB", " Linux"],
   },
 ];
