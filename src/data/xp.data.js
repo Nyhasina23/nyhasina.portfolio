@@ -32,7 +32,7 @@ export const dataXP = [
     ],
   },
   {
-    poste: "Fullstack Developer VUE & Node js",
+    poste: "Fullstack Developer",
     date: "Sep 2022 - Sep 2023",
     company: "TERATANY • CDD • HYBRID",
     description:
@@ -49,7 +49,7 @@ export const dataXP = [
     ],
   },
   {
-    poste: "REACT & REDUX Developer",
+    poste: "Frontend Developer REACT & REDUX",
     date: "Mar 2023 - Dec 2022",
     company: "FEDDE • CDD • PART TIME • REMOTE",
     description:

@@ -103,7 +103,7 @@ const MainSection = () => {
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/ny-hasina-andriamasimanana-622bb11ab/"
+                      href="https://www.linkedin.com/in/ny-hasina/"
                       class="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
                     >
                       <svg
