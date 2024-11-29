@@ -23,7 +23,7 @@ export const projects = [
     description:
       "Teratany is an innovative social platform that focuses on promoting sustainable development and corporate social responsibility.",
     image: dev,
-    link: "https://teratany.org",
+    link: "https://network.teratany.org",
   },
   {
     company: "Fedde",
