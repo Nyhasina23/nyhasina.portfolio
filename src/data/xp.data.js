@@ -1,16 +1,21 @@
 export const dataXP = [
   {
     poste: "Frontend Developer ",
-    date: "Jan 2024 - Jul 2024",
+    date: "Jan 2024 - Now",
     company: "SIRHPLUS • FULLTIME • ON THE SITE",
     description:
       "Frontend React Developer at Visions Additionnelles Madagascar (a subsidiary of Visions Additionnelles France). SIRHPLUS is a human resources management application in France.",
     tech: [
       "Typescript",
       "React",
+      "Next",
+      "Micro-frontend",
+      "React hook form",
+      "Tanstack",
       "Preact",
       "Gitlab",
       "ClickUp",
+      "Socket"
     ],
   },
   {
@@ -34,7 +39,7 @@ export const dataXP = [
   {
     poste: "Fullstack Developer",
     date: "Sep 2022 - Sep 2023",
-    company: "TERATANY • CDD • HYBRID",
+    company: "TERATANY • CDD • FULLTIME",
     description:
       "Fullstack developer at Teratany in collaboration with DeviantCoin. Database design, functionality analyses, development and production.",
     tech: [

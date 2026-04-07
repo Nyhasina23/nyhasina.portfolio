@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import FancyText from "@carefully-coded/react-text-gradient";
 import Experience from "./Experience";
@@ -26,7 +26,7 @@ const MainSection = () => {
     const offsetX = (mousePosition.x / window.innerWidth) * 100;
     const offsetY = (mousePosition.y / window.innerHeight) * 100;
 
-    const size = 40; 
+    const size = 40;
 
     return `radial-gradient(circle at ${offsetX}% ${offsetY}%, #162229, #080b11 ${size}%)`;
   };
@@ -55,29 +55,26 @@ const MainSection = () => {
                 Ny Hasina
               </FancyText>
               <h1 className="text-5xl text-[#e7eaef] mb-4 nyhasina">
-                Web developer
+                Fullstack developer
               </h1>
               <h1 className="text-lg font-extralight text-[#e7eaef]">
                 • Front developer • Backend developer •
               </h1>
               <div className="relative z-10">
-                <ul class="flex justify-start mt-5 space-x-5">
+                <ul class="flex items-center justify-start mt-5 space-x-5">
                   <li>
+
                     <a
-                      href="https://web.facebook.com/nyhasina.finaritra/"
+                      href="mailto:nyhasina.finaritra@gmail.com"
                       class="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
                     >
-                      <svg
-                        class="w-10 h-10"
+                      <svg class="w-[2.2rem] h-[2.2rem]"
                         fill="currentColor"
-                        viewBox="0 0 24 24"
-                        aria-hidden="true"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
-                          clip-rule="evenodd"
-                        ></path>
+                        version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                        viewBox="0 0 216 216"  >
+                        <path d="M108,0C48.353,0,0,48.353,0,108s48.353,108,108,108s108-48.353,108-108S167.647,0,108,0z M156.657,60L107.96,98.498
+	L57.679,60H156.657z M161.667,156h-109V76.259l50.244,38.11c1.347,1.03,3.34,1.545,4.947,1.545c1.645,0,3.073-0.54,4.435-1.616
+	l49.374-39.276V156z"/>
                       </svg>
                     </a>
                   </li>
@@ -218,7 +215,7 @@ const MainSection = () => {
               </div>
               <div className="text-center mb-4 mt-4">
                 <p className="text-slate-600 text-sm font-extralight">
-                  Ny Hasina • Copyright 2023
+                  Ny Hasina • Copyright {new Date().getFullYear()}
                 </p>
               </div>
             </div>

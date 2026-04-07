@@ -9,7 +9,7 @@ export const projects = [
     description:
       " SIRHPLUS is a human resources management application in France.",
     image: sirhplus,
-    link: "https://app.sirhplus.fr",
+    link: "https://www.sirhplus.fr",
   },
   {
     company: "ComeUp",

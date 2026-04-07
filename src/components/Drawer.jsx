@@ -56,10 +56,10 @@ export function DrawerNav({ isDrawerOpen = false }) {
           <Typography className="text-xl font-normal mt-4 text-gray-100 list-none hover:text-[#05828e]">
             <div class="inline-flex rounded-full shadow">
               <a
-                href="https://drive.google.com/file/d/1jXQfVoysVdbqK1fOHHoSF23tt14Y8SKQ/view?usp=sharing"
+                href="https://drive.google.com/file/d/1b_YxUAz_MYqtc-MtZRlKJMnCQPbdUee5/view?usp=sharing"
                 class="inline-flex items-center px-4 py-2 text-base text-gray-900 bg-[#05828e] border border-transparent rounded-full cursor-pointer font-base hover:bg-gray-50 "
               >
-                Contact Me — CV 
+                Contact Me — CV
               </a>
             </div>
           </Typography>

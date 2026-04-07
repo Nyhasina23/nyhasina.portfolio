@@ -86,10 +86,11 @@ const NavBar = () => {
             <div class="hidden relative z-10 md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
               <div class="inline-flex rounded-full shadow">
                 <a
-                  href="https://drive.google.com/file/d/1jXQfVoysVdbqK1fOHHoSF23tt14Y8SKQ/view?usp=sharing"
+                  download={true}
+                  href="https://drive.google.com/file/d/1b_YxUAz_MYqtc-MtZRlKJMnCQPbdUee5/view?usp=sharing"
                   class="inline-flex items-center px-4 py-2 text-base text-gray-900 bg-[#05828e] border border-transparent rounded-full cursor-pointer font-base hover:bg-gray-50 "
                 >
-                  Contact Me — CV 
+                  Contact Me — CV
                 </a>
               </div>
             </div>
